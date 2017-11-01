@@ -1,2 +1,2 @@
 # gitkill
-test for local computer remove github connection
+test for local computer remote github connection
